@@ -1,0 +1,6 @@
+../Core/Src/main.c:81:5:main	16	static
+../Core/Src/main.c:157:6:SystemClock_Config	80	static
+../Core/Src/main.c:197:6:vReadTemperature_pressure_humidity_ValuesTask	72	static
+../Core/Src/main.c:218:6:vPrintTemperatureValueTask	144	static
+../Core/Src/main.c:263:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:280:6:Error_Handler	4	static,ignoring_inline_asm
